@@ -21,7 +21,7 @@ Evaluador de Expresiones Aritmeticas
   tipos algebraicos para modelar las expresiones y funciones puras para su
   evaluacion y maneja errores como la division por cero mediante el tipo Maybe.
 
-@Github: 
+@Github: https://github.com/randy-pucmm/icc-302.proyecto_1
 
 ________________________________________________________________________________
 -}
